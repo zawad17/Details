@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @zawad bin rahman
-- 👀 I’m interested in machine learning
-- 🌱 I’m currently learning C & Python
-- 💞️ I’m looking to collaborate on NUBCC
+- 👋 Hi, I’m @ K M ZAWAD BIN RAHMAN
+- 👀 I’m interested in Machine Learning
+- 🌱 I've completed  C, C++, Python
+- 💞️ also complete numpy
 - 📫 How to reach me? linkedin:zawadrahman
 
